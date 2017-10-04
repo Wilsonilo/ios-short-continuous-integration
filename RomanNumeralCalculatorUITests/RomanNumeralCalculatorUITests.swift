@@ -2,8 +2,8 @@
 //  RomanNumeralCalculatorUITests.swift
 //  RomanNumeralCalculatorUITests
 //
-//  Created by Jarrod Parkes on 11/29/16.
-//  Copyright © 2016 buddybuild. All rights reserved.
+//  Created by Wilson Muñoz on 10/4/17.
+//  Copyright © 2017 buddybuild. All rights reserved.
 //
 
 import XCTest
